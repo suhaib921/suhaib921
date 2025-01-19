@@ -22,8 +22,8 @@
 ![MATLAB](https://img.shields.io/badge/matlab-%230079C1.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 # 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhaib921/) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suhaib921)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhaib921/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suheyb921@gmail.com)
 
 # 🌱 What I'm Working On:
 - Enhancing my expertise in **cloud technologies** and **distributed systems**.
