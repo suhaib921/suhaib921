@@ -23,20 +23,12 @@
 - Exploring advanced **algorithms** and their practical applications.
 - Contributing to open-source projects.
 
-# 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhaib921/suhaib921/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhaib921/suhaib921/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/suhaib921/suhaib921/output/github-snake.svg" />
-</picture>
-
 # 📈 GitHub Stats:
-![Suhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhaib921&show_icons=true&theme=radical)
-
-# 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhaib921/) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suhaib921)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-repo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-repo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/your-username/your-repo/output/github-snake.svg" />
+</picture>
 
 ---
 
