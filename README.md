@@ -2,7 +2,7 @@
 
 
 # Hello World! I'm Suhaib Abdi Muhummed 👋:
-🎓 **Computer Science Student** | Graduating June 2025 <br>
+🎓 **Computer Engineer Student** | Graduating June 2025 <br>
 💼 Open to **Summer Internship Opportunities** <br>
 🛠️ Passionate about problem-solving, coding, and building innovative solutions <br>
 🌍 Exploring the intersection of **Python**, **Java**, **PostgreSQL**, and **JavaScript**
