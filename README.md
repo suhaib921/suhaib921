@@ -2,7 +2,7 @@
 
 
 # Hello World! I'm Suhaib Abdi Muhummed 👋:
-🎓 **Computer Engineer Student** <br>
+🎓 **Computer Engineer** <br>
 💼 Open to **Any Opportunities** <br>
 🛠️ Passionate about problem-solving, coding, and building innovative solutions <br>
 🌍 Exploring the intersection of **Python**, **Java**, **PostgreSQL**, and **JavaScript**
